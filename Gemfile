@@ -52,3 +52,4 @@ group :development do
 end
 gem 'pry'
 gem 'awesome_print'
+gem 'faker'
